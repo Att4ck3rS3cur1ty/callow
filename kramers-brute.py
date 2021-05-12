@@ -32,13 +32,11 @@ parser.add_option("--pass", dest="passlist", help="Password dictionary") # Argum
 
 # Fancy ASCII Banner
 banner = color.PURPLE + '''
-     ____      _ _
-    / ___|__ _| | | _____      __
-   | |   / _` | | |/ _ \\ \ /\\ / /
-   | |__| (_| | | | (_) \\ V  V /
-    \\____\\__,_|_|_|\\___/ \\_/\\_/
+          __              ___  __  .  __      __   __       ___  ___ 
+|__/ |__)  /\   |\/| |__  |__) ' /__`    |__) |__) |  |  |  |__  
+|  \ |  \ /~~\  |  | |___ |  \   .__/    |__) |  \ \__/  |  |___ 
 
-{0}[#] {1}maximousblk/callow@v1.2
+{0}[#] {1}forked from maximousblk/callow@v1.2's project
 '''.format(color.CYAN, color.WHITE)
 
 
